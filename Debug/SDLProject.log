@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\grc28\Documents\CSUY3113\P2\SDLProject2\main.cpp(87,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\CSUY3113\P2\SDLProject2\main.cpp(88,40): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\CSUY3113\P2\SDLProject2\main.cpp(244,109): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\CSUY3113\P2\SDLProject2\main.cpp(257,107): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\CSUY3113\P2\SDLProject2\main.cpp(274,23): warning C4305: '+=': truncation from 'double' to 'float'
+  SDLProject.vcxproj -> C:\Users\grc28\Documents\CSUY3113\P2\SDLProject2\Debug\SDLProject.exe
